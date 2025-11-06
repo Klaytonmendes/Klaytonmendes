@@ -5,10 +5,10 @@
 Me chamo Klayton Harlen Mendes Souza, tenho 17 anos e sou nascido do Maranhão. Estou no 2° ano do ensino médio na Etec de Hortolândia, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou estudando banco de dados, mobile, páginas web e diversas outas matérias. Gosto de estudar e pretendo seguir na área da tecnologia.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://youtube.com/@klaytonmendes?si=Sv2MsGZMxYFTMm7y)">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Meu Youtube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
