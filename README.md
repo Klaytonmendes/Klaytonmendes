@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas`**
 
-Me chamo Klayton Harlen Mendes Souza, tenho 18 anos e sou nascido do Maranhão. Estou no 2° ano do ensino médio na Etec de Hortolândia, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou estudando banco de dados, mobile, páginas web e diversas outas matérias. Gosto de estudar e pretendo seguir na área da tecnologia.
+Me chamo Klayton Harlen Mendes Souza, tenho 18 anos e sou nascido do Maranhão. Estou no 3° ano do ensino médio na Etec de Hortolândia, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou estudando banco de dados, mobile, páginas web e diversas outas matérias. Gosto de estudar e pretendo seguir na área da tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
