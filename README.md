@@ -1,80 +1,31 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=Ol%C3%A1%2C%20eu%20sou%20o%20Klayton%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=fadeIn&customBannerFromLink=https%3A%2F%2Fi.pinimg.com%2F1200x%2F79%2F16%2F1d%2F79161dfc7e3a5f04dd2771063ccf8891.jpg" width="100%" alt="banner"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B0B0B0&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+Sistemas;Estudante+de+Tecnologia;Aprendendo+Web+e+Mobile;Sempre+evoluindo" alt="Typing SVG"/>
-</div>
+<div align="center"> <!-- ██╗ ██╗██╗ █████╗ ██╗ ██╗████████╗ ██████╗ ███╗ ██╗ ██║ ██╔╝██║ ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗ ██║ █████╔╝ ██║ ███████║ ╚████╔╝ ██║ ██║ ██║██╔██╗ ██║ ██╔═██╗ ██║ ██╔══██║ ╚██╔╝ ██║ ██║ ██║██║╚██╗██║ ██║ ██╗███████╗██║ ██║ ██║ ██║ ╚██████╔╝██║ ╚████║ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═══╝ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20o%20Klayton%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <!-- Troque "klaytonmendes" pelo seu usuário do GitHub em TODO o arquivo, se ainda não tiver feito --> </div>
+🧑‍💻 Sobre mim
+
+Meu nome é Klayton Harlen Mendes Souza, tenho 18 anos e sou natural do Rio de Janeiro. Estou no 3º ano do ensino médio no IFTM de Hortolândia, cursando técnico em Desenvolvimento de Sistemas.
+
+🔎 Atualmente estudando banco de dados, desenvolvimento mobile e páginas web
+⚡ Sempre aprendendo novas tecnologias
+🚀 Pretendo seguir carreira na área de tecnologia
+📫 Você pode me encontrar pra trocar ideia — meus contatos estão logo abaixo
 <br>
----
- 
-## 🧑‍💻 Sobre mim
- 
-Me chamo **Klayton Harlen Mendes Souza**, tenho 18 anos e sou natural do Maranhão.
-Estou no 3º ano do ensino médio na **Etec de Hortolândia**, cursando técnico em
-**Desenvolvimento de Sistemas**.
- 
-- 🔭 Atualmente estudando **banco de dados, desenvolvimento mobile e páginas web**
-- 🌱 Sempre aprendendo novas tecnologias
-- 💡 Pretendo seguir carreira na área de tecnologia
-- 📫 Fico à vontade para trocar uma ideia — meus contatos estão lá embaixo
-<br>
-## 🛠️ Linguagens e Tecnologias
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=e0e0e0" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=e0e0e0" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=e0e0e0" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=e0e0e0" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=e0e0e0" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=e0e0e0" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=e0e0e0" alt="Python"/>
-  <img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=e0e0e0" alt="Figma"/>
-</p>
-<br>
-## 📌 Projeto em destaque
- 
-<a href="https://github.com/Klaytonmendes/trabalhoKlayton.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Klaytonmendes&repo=trabalhoKlayton.github.io&bg_color=0d0d0d&title_color=ffffff&icon_color=999999&text_color=c0c0c0&border_color=333333" alt="Projeto fixado"/>
-</a>
+🧠 Linguagens e Tecnologias
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,figma" /> </p> <br>
+📌 Projeto em destaque
+<!-- Substitua o link e o repositório abaixo pelo seu projeto real --> <a href="https://github.com/klaytonmendes/SEU-REPOSITORIO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=klaytonmendes&repo=SEU-REPOSITORIO&theme=tokyonight" /> </a>
+
 <br><br>
- 
-## 📊 Estatísticas do GitHub
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klaytonmendes&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=999999&text_color=c0c0c0" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klaytonmendes&hide_border=true&background=0D0D0D&ring=999999&fire=E0E0E0&currStreakLabel=E0E0E0&sideLabels=999999&currStreakNum=FFFFFF&sideNums=999999&dates=777777" alt="GitHub Streak" height="165"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaytonmendes&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c0c0c0" alt="Top Languages"/>
-</p>
+
+📊 Estatísticas do GitHub
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=klaytonmendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://streak-stats.demolab.com/?user=klaytonmendes&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=klaytonmendes&theme=tokyo-night&hide_border=true" width="90%" /> </p> <br>
+🐍 A cobrinha que come os commits
+<p align="center"> <img src="https://raw.githubusercontent.com/klaytonmendes/klaytonmendes/output/github-contribution-grid-snake-dark.svg" /> </p>
+
+Essa imagem só aparece depois de configurar o GitHub Action da cobrinha — instruções logo abaixo, no arquivo snake.yml.
+
 <br>
-## 🌐 Minhas redes sociais
- 
-<!--
-  👇 Troque "SEU_LINK_AQUI" pelo link real de cada rede.
-  Se não usar alguma, é só apagar a linha.
--->
- 
-<p align="left">
-  <a href="SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=e0e0e0" alt="LinkedIn"/>
-  </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=e0e0e0" alt="Instagram"/>
-  </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=e0e0e0" alt="Discord"/>
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=e0e0e0" alt="Gmail"/>
-  </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=e0e0e0" alt="YouTube"/>
-  </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=e0e0e0" alt="TikTok"/>
-  </a>
-</p>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Klaytonmendes&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=1a1a1a&style=for-the-badge" alt="Profile views"/>
-</div>
- 
+🌐 Minhas redes sociais
+<!-- Preencha os links abaixo com os seus. Deixe em branco (ou apague a linha) as redes que você não quiser mostrar. --> <p align="left"> <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://discord.com/users/SEU-ID-DISCORD" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="mailto:SEU-EMAIL@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://youtube.com/@SEU-CANAL" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://tiktok.com/@SEU-TIKTOK" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> </p> <br> <div align="center">
+
+Mostrar Imagem
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
