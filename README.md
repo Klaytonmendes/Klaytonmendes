@@ -17,10 +17,8 @@ Meu nome é Klayton Harlen Mendes Souza, tenho 18 anos e sou natural do Rio de J
 
 📊 Estatísticas do GitHub
 <p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=klaytonmendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://streak-stats.demolab.com/?user=klaytonmendes&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=klaytonmendes&theme=tokyo-night&hide_border=true" width="90%" /> </p> <br>
-🐍 A cobrinha que come os commits
-<p align="center"> <img src="https://raw.githubusercontent.com/klaytonmendes/klaytonmendes/output/github-contribution-grid-snake-dark.svg" /> </p>
 
-Essa imagem só aparece depois de configurar o GitHub Action da cobrinha — instruções logo abaixo, no arquivo snake.yml.
+<p align="center"> <img src="https://raw.githubusercontent.com/klaytonmendes/klaytonmendes/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 <br>
 🌐 Minhas redes sociais
