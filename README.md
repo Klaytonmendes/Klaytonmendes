@@ -9,7 +9,7 @@ Currently i'm studying web pages, mobile and database. I want always to learn ne
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,cpp,ts,react,nodejs,python,figma,git" /> </p> <br>
 
-<p align="center"><a href="https://github.com/klaytonmendes/trabalhoKlayton.github.io"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=klaytonmendes&repo=trabalhoKlayton.github.io&theme=tokyonight" /> </a></p>
+<p align="center"><a href="https://github.com/Klaytonmendes/Curso-Jornada-do-Dev-"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=klaytonmendes&repo=trabalhoKlayton.github.io&theme=tokyonight" /> </a></p>
 
 <br><br>
 
