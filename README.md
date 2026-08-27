@@ -1,7 +1,7 @@
 <div align="center"> <!-- ██╗ ██╗██╗ █████╗ ██╗ ██╗████████╗ ██████╗ ███╗ ██╗ ██║ ██╔╝██║ ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗ ██║ █████╔╝ ██║ ███████║ ╚████╔╝ ██║ ██║ ██║██╔██╗ ██║ ██╔═██╗ ██║ ██╔══██║ ╚██╔╝ ██║ ██║ ██║██║╚██╗██║ ██║ ██╗███████╗██║ ██║ ██║ ██║ ╚██████╔╝██║ ╚████║ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═══╝ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20i'm%20Klayton%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <!-- Troque "klaytonmendes" pelo seu usuário do GitHub em TODO o arquivo, se ainda não tiver feito --> </div>
-🧑‍💻 Sobre mim
+🧑‍💻 About me
 
-Meu nome é Klayton Harlen Mendes Souza, tenho 18 anos e sou natural do Maranhão. Estou no 3º ano do ensino médio no IFTM de Hortolândia, cursando técnico em Desenvolvimento de Sistemas.
+Hello! My name is Klayton Harlen Mendes Souza and I'm 18 years old. I've been studying at Etec de Hortolândia since 2024, and I'm currently in my third year of high school, majoring in Systems Development.
 
 🔎 Atualmente estudando banco de dados, desenvolvimento mobile e páginas web
 ⚡ Sempre aprendendo novas tecnologias
