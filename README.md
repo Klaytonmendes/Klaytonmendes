@@ -2,14 +2,12 @@
 🧑‍💻 About me
 
 Hello! My name is Klayton Harlen Mendes Souza and I'm 18 years old. I've been studying at Etec de Hortolândia since 2024, and I'm currently in my third year of high school, majoring in Systems Development.
-
-🔎 Atualmente estudando banco de dados, desenvolvimento mobile e páginas web
-⚡ Sempre aprendendo novas tecnologias
-🚀 Pretendo seguir carreira na área de tecnologia
-📫 Você pode me encontrar pra trocar ideia — meus contatos estão logo abaixo
 <br>
-🧠 Linguagens e Tecnologias
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,figma,git,github" /> </p> <br>
+<br>
+Currently i'm studying web pages, mobile and database. I want always to learn new technology and i intending to build a career at software development field.
+<br>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,cpp,ts,react,nodejs,python,figma,git,github" /> </p> <br>
 
 <p align="center"><a href="https://github.com/klaytonmendes/trabalhoKlayton.github.io"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=klaytonmendes&repo=trabalhoKlayton.github.io&theme=tokyonight" /> </a></p>
 
