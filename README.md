@@ -15,8 +15,14 @@ Meu nome é Klayton Harlen Mendes Souza, tenho 18 anos e sou natural do Rio de J
 
 <br><br>
 
-📊 Estatísticas do GitHub
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=klaytonmendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://streak-stats.demolab.com/?user=klaytonmendes&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center">  </p> <br>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=klaytonmendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=klaytonmendes&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<br>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/klaytonmendes/klaytonmendes/output/github-contribution-grid-snake-dark.svg" /> </p>
 
