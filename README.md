@@ -26,6 +26,15 @@ Currently i'm studying web pages, mobile and database. I want always to learn ne
 
 <br>
 <p align="center">⬇️ My social media</p> 
-<!-- Preencha os links abaixo com os seus. Deixe em branco (ou apague a linha) as redes que você não quiser mostrar. --> <p align="center"> <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://discord.com/users/SEU-ID-DISCORD" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="mailto:SEU-EMAIL@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://youtube.com/@SEU-CANAL" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://tiktok.com/@SEU-TIKTOK" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> </p> <br> <div align="center">
+<!-- Preencha os links abaixo com os seus. Deixe em branco (ou apague a linha) as redes que você não quiser mostrar. --> <p align="center"> 
+<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+<a href="https://www.instagram.com/mendes_zxsc/" target="_blank"> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+<a href="https://discord.com/users/SEU-ID-DISCORD" target="_blank"> 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> 
+<a href="mailto:SEU-EMAIL@gmail.com" target="_blank"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+</p> <br> <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
