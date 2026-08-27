@@ -1,7 +1,7 @@
 <div align="center"> <!-- ██╗ ██╗██╗ █████╗ ██╗ ██╗████████╗ ██████╗ ███╗ ██╗ ██║ ██╔╝██║ ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗ ██║ █████╔╝ ██║ ███████║ ╚████╔╝ ██║ ██║ ██║██╔██╗ ██║ ██╔═██╗ ██║ ██╔══██║ ╚██╔╝ ██║ ██║ ██║██║╚██╗██║ ██║ ██╗███████╗██║ ██║ ██║ ██║ ╚██████╔╝██║ ╚████║ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═══╝ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20i'm%20Klayton%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> <!-- Troque "klaytonmendes" pelo seu usuário do GitHub em TODO o arquivo, se ainda não tiver feito --> </div>
 🧑‍💻 Sobre mim
 
-Meu nome é Klayton Harlen Mendes Souza, tenho 18 anos e sou natural do Rio de Janeiro. Estou no 3º ano do ensino médio no IFTM de Hortolândia, cursando técnico em Desenvolvimento de Sistemas.
+Meu nome é Klayton Harlen Mendes Souza, tenho 18 anos e sou natural do Maranhão. Estou no 3º ano do ensino médio no IFTM de Hortolândia, cursando técnico em Desenvolvimento de Sistemas.
 
 🔎 Atualmente estudando banco de dados, desenvolvimento mobile e páginas web
 ⚡ Sempre aprendendo novas tecnologias
