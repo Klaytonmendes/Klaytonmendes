@@ -37,6 +37,8 @@ Currently i'm studying web pages, mobile and database. I want always to learn ne
 <!-- Email-->  
 <a href="mailto:klaytonmendes893@gmail.com" target="_blank"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
-</p> <br> <div align="center">
+</p> <br> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
