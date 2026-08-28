@@ -34,11 +34,8 @@ Currently i'm studying web pages, mobile and database. I want always to learn ne
 <!-- Instagram-->
 <a href="https://www.instagram.com/mendes_zxsc/" target="_blank"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<!-- Discord-->  
-<a href="https://discord.com/users/SEU-ID-DISCORD" target="_blank"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <!-- Email-->  
-<a href="mailto:SEU-EMAIL@gmail.com" target="_blank"> 
+<a href="mailto:klaytonmendes893@gmail.com" target="_blank"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 </p> <br> <div align="center">
 
