@@ -1,4 +1,12 @@
 <div align="center"> <!-- ██╗ ██╗██╗ █████╗ ██╗ ██╗████████╗ ██████╗ ███╗ ██╗ ██║ ██╔╝██║ ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗ ██║ █████╔╝ ██║ ███████║ ╚████╔╝ ██║ ██║ ██║██╔██╗ ██║ ██╔═██╗ ██║ ██╔══██║ ╚██╔╝ ██║ ██║ ██║██║╚██╗██║ ██║ ██╗███████╗██║ ██║ ██║ ██║ ╚██████╔╝██║ ╚████║ ╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═══╝ --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20i'm%20Klayton%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> </div>
+
+---
+<div align="center">
+  <em>"Filho, faça o que eu não fiz, pois se eu fosse você, eu faria tudo diferente..."</i><br>
+  <b>Iranile-</b>
+  </em>
+</div>
+
 🧑‍💻 About me
 
 Hello! My name is Klayton Harlen Mendes Souza and I'm 18 years old. I've been studying at Etec de Hortolândia since 2024, and I'm currently in my third year of high school, majoring in Systems Development.
