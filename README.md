@@ -2,7 +2,7 @@
 
 ---
 <div align="center">
-  <em>"Filho, faça o que eu não fiz, pois se eu fosse você, eu faria tudo diferente..."</i><br>
+  <em>"As vezes precisamos subir de qualquer forma naquele trem..."</i><br>
   <b>Iranile-</b>
   </em>
 </div>
