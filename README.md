@@ -27,7 +27,6 @@ Currently i'm studying web pages, mobile and database. I want always to learn ne
 </p>
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=klaytonmendes&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=klaytonmendes&theme=tokyo-night&hide_border=true" />
 </p>
 <br>
 
