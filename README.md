@@ -3,7 +3,6 @@
 ---
 <div align="center">
   <em>"Sic Parvis Magna"</i><br>
-  <b>Iranile-</b>
   </em>
 </div>
 
