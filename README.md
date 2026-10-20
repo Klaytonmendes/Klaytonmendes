@@ -2,7 +2,7 @@
 
 ---
 <div align="center">
-  <em>"As vezes precisamos subir de qualquer forma naquele trem..."</i><br>
+  <em>"Sic Parvis Magna"</i><br>
   <b>Iranile-</b>
   </em>
 </div>
