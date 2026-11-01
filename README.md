@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <div align="center">
   <em>"Sic Parvis Magna"</em>
 </div>
@@ -38,7 +36,7 @@ I'm currently studying web pages, mobile and databases. I always want to learn n
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-<br>
+---
 
 <p align="center">
   <a href="https://mindcash-tcc.vercel.app/">
