@@ -41,7 +41,7 @@ I'm currently studying web pages, mobile and databases. I always want to learn n
 <br>
 
 <p align="center">
-  <a href="https://github.com/Klaytonmendes/MindCash">
+  <a href="https://mindcash-tcc.vercel.app/">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=klaytonmendes&repo=MindCash&theme=tokyonight" />
   </a>
 </p>
